@@ -1,0 +1,26 @@
+ Hexo 建站记录
+
+    安装Git和node.js
+
+Git： Git 国内下载站：waylau/git-for-win
+
+node.js：Download | Node.js
+
+    安装hexo
+
+使用 npm 安装 Hexo：
+
+$ npm install -g hexo-cli
+
+    初始化Hexo
+
+$ hexo init <folder>
+
+或：创建文件夹（如D盘创建Hexo），在Hexo文件下，右键运行Git Bash，输入命令：hexo init
+
+    本地浏览博客
+
+分别输入 如下命令：
+
+      hexo g
+      hexo s
